@@ -25,4 +25,4 @@ The purpose of this project is to demonstrate ability to collect, work with, and
 * [Link to full description of source files](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 * [Download link to source files](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
 
-#### For further details about the data set, check the README.txt file located in the source files (which can be obtained using the link above).
+For further details about the data set, check the README.txt file located in the source files (which can be obtained using the link above).
