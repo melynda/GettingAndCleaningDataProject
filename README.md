@@ -4,10 +4,6 @@ GettingAndCleaningDataProject
 Contains files for the course project - Coursera Getting and Cleaning Data
 
 
-#### Getting And Cleaning Data Project - README
-
-Contained in this repository are project files for the Getting and Cleaning Data class on Coursera.
-
 #### Brief Project Description
 
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
@@ -21,8 +17,10 @@ The purpose of this project is to demonstrate ability to collect, work with, and
 
 #####CodeBook.md is the markdown file contained in this repository that contains an explanation of all data, variables and transformations.
 
+#####tidy_data_avg_mean_stddev.txt is the independent tidy data set produced by the run_analysis.R script.  This data set contains the average of each variable for each activity and each subject.
+
 
 #### Helpful links regarding project and source files:
-* [Link to Coursera page explaining project](https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions)
-* [Download link to source files](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+* [Link to Coursera project description page](https://class.coursera.org/getdata-009/human_grading/view/courses/972587/assessments/3/submissions)
 * [Link to full description of source files](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+* [Download link to source files](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
