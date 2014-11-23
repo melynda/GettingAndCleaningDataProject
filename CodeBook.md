@@ -46,7 +46,6 @@
 * WALKING_UPSTAIRS
 
 #### Extracted Fields - Mean and Standard Deviation
-## variables:
 
 * tBodyAcc-mean()-X
 * tBodyAcc-mean()-Y
