@@ -37,13 +37,17 @@
 * The dcast() function (which is also included in the R package reshape2) is used to cast the melted_data into a data frame by averaging activity and subject.  
 * The tidy data that results from this reshaping is saved as tidy_data_avg_mean_stddev, and then written to a text file named tidy_data_avg_mean_stddev.txt.
 
-####Activity Labels
-* LAYING
+#### Activity Labels
+* WALKING
+* WALKING_UPSTAIRS
+* WALKING_DOWNSTAIRS
 * SITTING
 * STANDING
-* WALKING
-* WALKING_DOWNSTAIRS
-* WALKING_UPSTAIRS
+* LAYING
+
+#### ID Fields
+* subject - The participant ID
+* activity - The activity performed when the measurements were taken
 
 #### Extracted Fields - Mean and Standard Deviation
 
