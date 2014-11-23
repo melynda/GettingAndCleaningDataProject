@@ -1,6 +1,9 @@
 # CodeBook
 ## Getting and Cleaning Data Project
 
+### About the data:
+Experiments were carried out on a group of volunteers. Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist. Using its embedded accelerometer and gyroscope, data was captured and recorded. The obtained dataset has been randomly partitioned into two sets, where 70% of the volunteers was selected for generating the training data and 30% the test data.
+
 ### Explanation of data, variables, and transformations: 
 
 #### Read the needed text files in using read.table:
